@@ -9,3 +9,5 @@ https://raw.githubusercontent.com/farazmobin47/VRM-folder/main/Engineer7.vrm
 https://raw.githubusercontent.com/farazmobin47/VRM-folder/main/Alien2.vrm
 
 https://raw.githubusercontent.com/farazmobin47/VRM-folder/main/Owl.vrm
+
+https://raw.githubusercontent.com/farazmobin47/VRM-folder/main/Biker.vrm
